@@ -3,6 +3,9 @@
 ### Southern Federal University,
 ### Russia, Taganrog
 ### MIT License
+### 
+### this source created to use in CASCADA
+### https://github.com/ranea/CASCADA (c) 2022 Adrián Ranea
 
 DEBUG_OUTS = 0
 DEBUG_OUTS2 = 0
