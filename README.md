@@ -61,9 +61,10 @@ WARNING: all found "xordiff" characteristic are not valid (because of properties
 To find valid "xordiff" characteristic use special script "diffvalchsearch_pcollapser.py", see description in it. 
 
 Usage:
+
     python3.11 diffvalchsearch_pcollapser.py
     
-To change "block_size", "num_rounds" and "init_weight" - edit values in a script source (lines 52, 53 and 55).    
+To change "block_size", "num_rounds" and "init_weight" - edit values in a script source (lines 54, 55 and 57).    
 
 WARNING: this script need much more time to complete.
 
