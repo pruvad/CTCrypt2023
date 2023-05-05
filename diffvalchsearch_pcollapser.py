@@ -1,3 +1,5 @@
+### https://github.com/ranea/CASCADA (c) 2022 Adrián Ranea
+
 """Search simultaneously for a characteristic and a pair of right inputs satisfying the characteristic.
 
 In this script we construct a model that describe difference transitions
